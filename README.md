@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fgcargnelutti. I'm a designer with over 8 years of experience leading awesome teams and contributing to innovative companies and products. I'm currently migrating my career to Software Development.
+- 👋 Hi, I’m @fgcargnelutti. I'm a designer with over 9 years of experience leading awesome teams and contributing to innovative companies and products. I'm currently migrating my career to Software Development.
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning TypeScript and React
 - 📫 How to reach me: https://www.linkedin.com/in/fgcargnelutti/ or see my design portfolio https://uxfernando.lovable.app
